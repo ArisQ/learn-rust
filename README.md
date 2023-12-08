@@ -15,3 +15,10 @@ cargo build
 cargo build --release
 ```
 
+- `let` 声明变量, 变量默认不可变
+- `let mut`
+- `//` 行注释
+- `::` 调用关联函数/静态方法
+- `use std::io  io::stdin()` `std::io::stdin()`
+
+
