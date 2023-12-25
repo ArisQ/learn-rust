@@ -21,4 +21,5 @@ cargo build --release
 - `::` 调用关联函数/静态方法
 - `use std::io  io::stdin()` `std::io::stdin()`
 
-
+- 预导入 preclude
+- shadowing
